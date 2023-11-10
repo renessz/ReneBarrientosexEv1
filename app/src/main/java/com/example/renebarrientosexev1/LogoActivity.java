@@ -17,7 +17,6 @@ public class LogoActivity extends AppCompatActivity {
         logoImageView.setOnClickListener(v -> {
             Intent intent = new Intent(getApplicationContext(),PrincipalActivity.class);
             startActivity(intent);
-            Toast.makeText(getApplicationContext(), "Imagen clicada", Toast.LENGTH_SHORT).show();
         });
 
     }
