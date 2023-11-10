@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ReneBarrientosexEv1</string>
+    <string name="imagenlogo">ImagenLogo</string>
+    <string name="sitios_t_risticos">Sitios Túristicos</string>
+    <string name="gran_muralla_china">Gran Muralla, China</string>
+    <string name="gran_pir_mide_de_guiza_egipto">Gran Pirámide de Guiza, Egipto</string>
+    <string name="la_alhambra_granada_espa_a">La Alhambra, Granada, España</string>
+    <string name="torre_eiffel_par_s_francia">Torre Eiffel, París, Francia</string>
+    <string name="estrella">estrella</string>
+    <string name="imagennodefinida">imagenNodefinida</string>
+    <string name="_9733_9733_9733_9733">★★★★</string>
+    <string name="_9733_9733_9733">★★★</string>
+    <string name="volver">Volver</string>
+    <string name="favorito">Favorito</string>
+</resources>
